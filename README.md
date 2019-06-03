@@ -6,7 +6,7 @@ This Template is using the following:
 - HTML
 - CSS
 - JavaScript
-- Jquery
+- JQuery
 
 
 
